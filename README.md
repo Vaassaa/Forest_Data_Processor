@@ -1,6 +1,7 @@
 # Forest Data Processor
 
 Scripts for preparing simulation inputs for the **DRUtES** forest soil model from monitoring and external weather data collected at the **AMALIA** research site (Bohemian Forest, Czech Republic).
+![Forest Data Processor Pipeline](data/diagram.pdf)
 
 ## What it does
 
